@@ -40,7 +40,7 @@
                          <img src ="45.jpg" height= "100%" width ="100%" alt ="mero vrindavan" >
                        </center>
 
-                    <a name = "About"> <font face = "helvetica" size =" 5" color= "#4a235a"> 
+                    <a name = "about"> <font face = "helvetica" size =" 5" color= "#4a235a"> 
 
                     <b><u>Vrindavan</u></b> is considered to be a holy place for <i>Vaisnavism tradition of Hinduism</i>. It is a center of Krishna worship and the area includes places like                                        <b><i>Govardhana</i></b> and <b><i>Gokul</i></b> that are associated with <i>Krishna</i>. Millions of devotees of Radha Krishna visit these places of pilgrimage every year and                       participate in a number of festivals <b><u>Vrindavan</u></b> has an ancient past, associated with Hindu culture and history, and was established in the 16th and 17th centuries as                      a result of an explicit treaty between Muslims and Hindu Emperors,  and is an important Hindu pilgrimage site since long.<br>
 
