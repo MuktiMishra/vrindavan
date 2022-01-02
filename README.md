@@ -18,7 +18,7 @@
                    <a href = "#about"> <font size =5>About</font></a>
                  </td> 
                  <td>
-                   <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/attraction%20sites.html"> <font size = 5>Attraction Sites</font></a>
+                   <a href = "attraction sites.html"> <font size = 5>Attraction Sites</font></a>
                  </td>
                  <td>
                    <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/street%20food.html"><font size = 5>Street Food</font></a>
