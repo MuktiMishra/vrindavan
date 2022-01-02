@@ -8,13 +8,13 @@
            <table border = "0" width = "100%" cellpadding= "0" bgcolor = "#f3971b">
               <tr>
                 <td>
-                   <font face = helvetica  color= #000000 size = 6>VRINDAVAN</font>
+                   <font face = helvetica  color= #000000 size = 6> VRINDAVAN </font>
                 </td>
                  <td>
                        &nbsp;
                  </td>
                  <td>
-                   <a href = #about> <font size =5>About</font></a>
+                   <a href = "#about"> <font size =5>About</font></a>
                  </td> 
                  <td>
                    <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/attraction%20sites.html"> <font size = 5>Attraction Sites</font></a>
@@ -34,7 +34,7 @@
                </tr>
             </table>
 
-                   <font size = "5" color= "#512e5f" ><b><u>Vrindavan</u></b> , also known as <b><u>Brindaban</u></b> , is a historical city in the <i>Mathura district of Uttar Pradesh, India</i>. It                        is one of the most sacred places in Vaishnavism. It is located in the Braj Bhoomi region, and is where, according to Hinduism, <b><i><u>Lord Krishna</i></u></b> spent most of his                       childhood days. The city is about 11 km from <i>Mathura</i>, Krishna's birthplace on the <i>Agra-Delhi National Highway as NH-44</i> , The town hosts many temples dedicated to                     the worship of <b><i><u>Radha and Krishna</u></i></b>. </font><br>
+                   <font size = "5" color= "#512e5f" ><b><u>Vrindavan</u></b> , also known as <b><u>Brindaban</u></b> , is a historical city in the <i>Mathura district of Uttar Pradesh, India</i>. It                        is one of the most sacred places in Vaishnavism. It is located in the Braj Bhoomi region, and is where, according to Hinduism, <b><i><u>Lord Krishna</u></i></b> spent most of his                       childhood days. The city is about 11 km from <i>Mathura</i>, Krishna's birthplace on the <i>Agra-Delhi National Highway as NH-44</i> , The town hosts many temples dedicated to                     the worship of <b><i><u>Radha and Krishna</u></i></b>. </font> <br>
 
                        <center>
                          <img src ="45.jpg" height= "100%" width ="100%" alt ="mero vrindavan" >
