@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>donation</title>
+</head>
+<body background= "B1.jpg">
+<table border= "0"  width= "100%" color= "#f3971b">
+<tr>
+<td>
+<font size= "7" color= "blue"><center><u>DONATION</u></center></font>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<center>
+<video controls src= "donation.mp4" height= "500" width= "900">
+</video>
+</center>
+
+<br><br>
+<center>
+<font size= "6" color= "black"> <kbd> <u>
+Thank you for your kind and generous donation , please enter any amount you would you like to gift . You can either do a bank transfer pay using debit/credit card .
+</font>
+
+<font size= "5"> <kbd> <u>Donation For </u></kbd> </font><br><br>
+
+<form method= "post">
+<input list= "donation category">
+<datalist id= "donation category">
+<option value= "-Select Donation Category-">
+<option value= "General Donation">
+<option value= "Goshala">
+<option value= "Deity Worship">
+<option value= "Widow Welfare">
+<option value= "Old Age Home">
+<option value= "Devotee Kitchen">
+<option value= "Devotee Care">
+<option value= "Krishna Balram Community Day School">
+<option value= "Bihari Ji Poshak">
+<option value= "Kichari Prashadam">
+<option value= "Namahatta Service Centre">
+</datalist>
+
+
+<br><br> 
+
+<input type= "text" value= "Total Amount" size= "70">
+
+<br><br>
+
+<input type= "text" value= "Name" size= "70" maxlength= "20">
+
+<br><br>
+
+<input type= "text" value= "address" size= "70">
+
+<br><br>
+
+Country
+<select>
+<option>"India"</option>
+<option>"America"</option>
+<option>"Britain"</option>
+<option>"Switzland"</option>
+<option>"NewZealand"</option>
+<option>"France"</option>
+<option>"Africa"</option>
+<option>"Japan"</option>
+<option>"Butan"</option>
+<option>"Nepal"</option>
+<option>"Germany"</option>
+<option>"Italy"</option>
+</select>
+
+<br><br>
+
+<input type= "text" value= "State" size= "70">
+
+<br><br>
+
+<input type= "text" value= "City" size= "70">
+
+<br><br>
+
+<input type= "text" value= "Pin  Code" size= "70">
+
+<br><br>
+
+<input type= "text" value= "10-digit Contact No." size= "70">
+
+<br><br>
+
+<input type= "text" value= "Email" size= "70">
+
+<br><br>
+
+<textarea name= "Your Comment" rows= "7" cols= "7">
+Your Comment
+</textarea>
+
+<br><br>
+
+<input type= "submit" value= "DONATION">
+
+</form>
+</font>
+
+
+</body>
+</html>

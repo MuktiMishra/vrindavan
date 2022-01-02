@@ -1,0 +1,31 @@
+
+<html>
+<head>
+<title>street food</title>
+</head>
+<body bgcolor = "grey "> 
+<table border = "0" width = "100%" cellpadding = "0" bgcolor = "#ffa8b6">
+<tr>
+<td>
+<font size = "7" color = "black"> <center> STREET FOOD OF VRINDAVAN </center> </FONT>
+</td>
+</tr>
+</table> 
+
+<br><br><br>
+
+<font color = "#ffff33" size = "5" >
+
+<font size = "7" color = "#141a46">  <center> <b> <u>Bedai Kachori  </u> </b> </center> </font><br>
+
+<img src = "104.jpg" height = "40%" width = "40%" align = "left" alt = "img of bedai kachori"> 
+ 
+Kachori in Mathura &Vrindavan is made with moong dal, and the scent of desi ghee drenched in it. There are varieties of kachoris served here, but the best one is with the filling of mawa and dry fruit. If you don’t like mawa and dry fruit, then need not to worry as lanes of Vrindavan offer a variety of kachoris, and each one has its specialty. <br>
+
+<img src = "103.jpg" height = "40%" width = "40%" align = "right" alt = "img of bedai kachori"> 
+ 
+
+ It’s a renowned dish in vrindavan , Bedhai is crispy, deep-fried, pure wheat chapattis served with spicy potato sabzi. For many people who live in these cities, it is the favorite lip-smacking breakfast option.
+</font>
+</body>
+</html>

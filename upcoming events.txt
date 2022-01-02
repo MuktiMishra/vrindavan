@@ -1,0 +1,59 @@
+
+<html>
+<head>
+<title> "upcoming events"</title>
+</head>
+<body bgcolor = "#f4a896" >
+<table border = "0" width = "100%" cellpadding= "0" bgcolor ="#080A52">
+                <tr>
+                <td>
+                   <font face = helvetica  color = "#eb2188" size = "7">  <center>UPCOMING EVENTS IN VRINDAVAN</center> </font>
+                </td>
+                 </tr>
+              </table>
+               <br><br><br>
+<table align = "center" border = "2">
+<tr bgcolor = "#e66c2c" height = "25%">
+<th>S.No.</th>
+<th>Festival</th>
+<th>Breif Description</th>
+<th>Hindu Calender Day</th>
+<th>date</th>
+</tr>
+
+<tr>
+<td bgcolor = "#efb261">1</td>
+<td bgcolor = "#ffc594"> Kumbh Mela</td>
+<td bgcolor = "#efb261">Ritual dip in the water of Yamuna river</td>
+<td bgcolor = "##ffc594">Magh Sudi Panchmi</td>
+<td bgcolor = "#efb261">Tue , 16 Feb 2021 </td>
+</tr>
+
+<tr>
+<td bgcolor = "#efb261">2</td>
+<td bgcolor = "#ffc594">Aanola Ekadshi</td>
+<td bgcolor = "#efb261">Colourful Holi Celebration Start</td>
+<td bgcolor = "##ffc594">Phalgun Shukla Ekadashi</td>
+<td bgcolor = "#efb261">Thu , 25 March 2021 </td>
+</tr>
+
+<tr>
+<td bgcolor = "#efb261">3</td>
+<td bgcolor = "#ffc594">Holika Dahan</td>
+<td bgcolor = "#efb261">Colourful Holi Celebration end</td>
+<td bgcolor = "##ffc594">Phalgun Shukla Poornima</td>
+<td bgcolor = "#efb261">Sun , 28 March 2021 </td>
+</tr>
+
+<tr>
+<td bgcolor = "#efb261">4</td>
+<td bgcolor = "#ffc594">Dhulendi</td>
+<td bgcolor = "#efb261">Dolotsav</td>
+<td bgcolor = "##ffc594">Phalgun Shukla Pratipada</td>
+<td bgcolor = "#efb261">Mon , 29 March 2021 </td>
+</tr>
+
+</table>
+              
+</body>
+</html>
