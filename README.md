@@ -10,9 +10,9 @@
                 <td>
                    <font size =6>VRINDAVAN</font>
                 </td>
-                 <td>
-                       &nbsp;
-                 </td>
+     
+                      
+              
                  <td>
                    <a href = "#about"> <font size =5>About</font></a>
                  </td> 
