@@ -21,16 +21,16 @@
                    <a href = "attraction sites.html"> <font size = 5>Attraction Sites</font></a>
                  </td>
                  <td>
-                   <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/street%20food.html"><font size = 5>Street Food</font></a>
+                   <a href = "street food.html"><font size = 5>Street Food</font></a>
                  </td>
                  <td>
-                   <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/upcoming%20events.html"><font size = 5>Upcoming Events</font></a>
+                   <a href = "upcoming events.html"><font size = 5>Upcoming Events</font></a>
                  </td>
                  <td>
-                   <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/stay.html"><font size = 5>Hotels To Stay</font></a>
+                   <a href = "stay.html"><font size = 5>Hotels To Stay</font></a>
                  </td>
                  <td>
-                   <a href = "file:///C:/Users/TUSHAL/Desktop/project/CLASS%2010%20PROJECT/donation.html"><font size = 5>Donation</font></a>
+                   <a href = "donation.html"><font size = 5>Donation</font></a>
                  </td>
                </tr>
             </table>
